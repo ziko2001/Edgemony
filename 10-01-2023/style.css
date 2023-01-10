@@ -1,0 +1,29 @@
+body {
+    margin: 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 400px;
+    height: 380px;
+    border-radius: 10px;
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.4);
+    background-color: rgb(211, 211, 203);
+    margin: 20px;
+  }
+  
+  .card__title {
+    margin: 14px 0;
+    color: rgb(178, 32, 32);
+  }
+  
+  .card__description {
+    padding: 5px 12px;
+
+  }
+  
