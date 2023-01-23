@@ -1,0 +1,12 @@
+body {
+    background-color: #555;
+}
+  .quote-card {
+    display: inline-grid;
+    gap: 20px;
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.35);
+    padding: 10px;
+    border-radius: 12px;
+    background-color:rgba(107, 157, 232, 0.35);
+  }
+
