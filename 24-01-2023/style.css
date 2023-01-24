@@ -1,0 +1,15 @@
+ body {
+  display: inline;
+  gap: 20px;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+
+.user {
+    width: 400px;
+    padding: 8px 16px;
+    border-radius: 8px;
+    border: 1px solid lightblue;
+}
