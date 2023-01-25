@@ -1,0 +1,60 @@
+{
+    "films": [
+      {
+        "title": "The Shawshank Redemption",
+        "year": 1994,
+        "director": "Frank Darabont",
+        "actors": ["Tim Robbins", "Morgan Freeman", "Bob Gunton"],
+        "rating": 9.3,
+        "genres": ["Drama", "Crime"]
+      },
+      {
+        "title": "The Godfather",
+        "year": 1972,
+        "director": "Francis Ford Coppola",
+        "actors": ["Marlon Brando", "Al Pacino", "James Caan"],
+        "rating": 9.2,
+        "genres": ["Crime", "Drama"]
+      },
+      {
+        "title": "The Dark Knight",
+        "year": 2008,
+        "director": "Christopher Nolan",
+        "actors": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"],
+        "rating": 9.0,
+        "genres": ["Action", "Crime", "Drama"]
+      },
+      {
+        "title": "The Irishman",
+        "year": 2019,
+        "director": "Martin Scorsese",
+        "actors": ["Robert De Niro", "Al Pacino", "Joe Pesci"],
+        "rating": 8.0,
+        "genres": ["Crime", "Drama"],
+        "description":"La storia di Frank Sheeran, sicario di alto livello e confidente di Jimmy Hoffa, leader sindacale scomparso"
+      },
+      {
+        "title": "Joker",
+        "year": 2019,
+        "director": "Todd Phillips",
+        "actors": ["Joaquin Phoenix", "Robert De Niro", "Zazie Beetz"],
+        "rating": 8.5,
+        "genres": ["Crime", "Drama", "Thriller"],
+        "description": "Il film racconta la storia del fallito comico Arthur Fleck che, trasformandosi in Joker, diventa il criminale più famoso di Gotham City"
+      },
+      {
+        "title": "Inception",
+        "year": 2010,
+        "director": "Christopher Nolan",
+        "actors": ["Leonardo DiCaprio", "Tom Hardy", "Ken Watanabe"],
+        "rating": 8.8,
+        "genres": ["Action", "Sci-Fi", "Thriller"],
+        "description": "Dom Cobb è un ladro di segreti di grande abilità, il cui ultimo colpo lo vede entrare nei sogni della gente per rubare i loro segreti più reconditi"
+      }
+
+    ]
+  }
+
+
+  
+  

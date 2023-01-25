@@ -1,0 +1,15 @@
+body {
+    background-color: #555;
+
+}
+
+  .product-card {
+    display: flex;
+    position: relative;
+    gap: 20px;
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.35);
+    padding: 10px;
+    margin: inherit;
+    border-radius: 12px;
+    background-color:beige;
+  }
