@@ -1,0 +1,19 @@
+body {
+    background-color: #555;
+
+
+}
+
+  .product-card {
+    display: flex;
+    gap: 20px;
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.35);
+    padding: 20px;
+    margin: initial;
+    border-radius: 12px;
+    background-color:beige;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+  }
