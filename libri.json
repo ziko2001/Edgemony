@@ -1,0 +1,7 @@
+[  
+    {    "titolo": "Il Signore degli Anelli",    "autore": "J.R.R. Tolkien",    "genere": "Fantasy",    "prezzo": 20  },  
+    {    "titolo": "Harry Potter e la Pietra Filosofale",    "autore": "J.K. Rowling",    "genere": "Fantasy",    "prezzo": 15  }, 
+    {    "titolo": "1984",    "autore": "George Orwell",    "genere": "Distopico",    "prezzo": 10  }, 
+    {    "titolo": "Frankenstein",    "autore": "Mary Shelley",    "genere": "Horror",    "prezzo": 8  }, 
+    {    "titolo": "Cime Tempestose",    "autore": "Emily Bronte",    "genere": "Romantico",    "prezzo": 12  }
+]
