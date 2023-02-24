@@ -1,0 +1,32 @@
+* {
+    margin: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+    gap: 20px;
+    position: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+
+.card {
+    width: 300px;
+    height: 400px;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 20px;
+    background-color:rgb(225, 196, 160)
+
+  }
+  
+  .usersList {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+
+  }
+
+  .card img {
+    position: static;
+  }
+
